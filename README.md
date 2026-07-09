@@ -1,2 +1,0 @@
-# extramos-app
-d
